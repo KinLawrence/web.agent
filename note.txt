@@ -1,0 +1,8 @@
+Outskill workshop
+
+ycombinator.com/companies?batch=Spring%202025&batch=Winter%202025&query=agent
+
+projects:
+browser.ottogrid.ai
+
+https://cua.browserbase.com/
